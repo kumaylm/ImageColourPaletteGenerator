@@ -1,7 +1,7 @@
 # Image Colour Palette Generator
 A website that finds the most common colours in an uploaded image.
 
-## Languages Used
+## Languages Implemented
 - HTML
 - CSS
 - JavaScript
